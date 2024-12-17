@@ -1,7 +1,7 @@
 ![Screenshot-1](screenshots/Screenshot-1.png)
 ![Screenshot-2](screenshots/Screenshot-2.png)
 
-🎲 ## Tenzies Game in React
+## Tenzies Game 🎲  in React
 
 ► This is a React-based implementation of the classic Tenzies game, where the goal is to roll dice until all of them display the same value. Players can "hold" dice to freeze their current values between rolls.
 

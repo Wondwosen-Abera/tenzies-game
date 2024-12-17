@@ -7,7 +7,7 @@
 
 🖥️ Live Demo
 
-► Play Tenzies Game [Online](https://chef-claude-recipe.netlify.app).
+► Play Tenzies Game [Online](https://tenziesgameplay.netlify.app/).
 
 🚀 Features
 
